@@ -1,0 +1,11 @@
+Added Component: Designator=J7(*JST_B4B-PH-SM4-TB)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B4B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B4B-PH-SM4-TB/JST%20Sales%20America%20Inc./view-part/48901/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Member To Class: ClassName=mainSchem Member=Component J7 B4B-PH-SM4-TB

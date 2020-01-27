@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : B4B-PH-SM4-TB.LibPkg
+
+Section : C:\Users\Zain\Downloads\B4B-PH-SM4-TB\B4B-PH-SM4-TB.lia
+    Section : PCB Library - B4B-PH-SM4-TB.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token B4B-PH-SM4-TB On Line 134
+            Warning - 1 : Skipping Token attachedSymbol On Line 205
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - B4B-PH-SM4-TB.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - B4B-PH-SM4-TB.SchLib
+        EndSection
+    EndSection
+EndSection

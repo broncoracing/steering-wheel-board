@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : LTM8074IY_PBF.LibPkg
+
+Section : C:\Users\Zain\Downloads\LTM8074IY_PBF\LTM8074IY_PBF.lia
+    Section : PCB Library - LTM8074IY_PBF.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LTM8074IY#PBF On Line 148
+            Warning - 1 : Skipping Token attachedSymbol On Line 425
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*BGA25C65P5X5_400X400X198N][Primary] associated with PCAD Component [LTM8074IY#PBF] has been renamed to PCB FootPrint [*BGA25C65P5X5_400X400X198N_LTM8074IY#PBF(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - LTM8074IY_PBF.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 122
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 137
+        EndSection
+
+        Section : Generating SCH Library - LTM8074IY_PBF.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*BGA25C65P5X5_400X400X198N][Primary] associated with PCAD Component [LTM8074IY#PBF] has been renamed to PCB FootPrint [*BGA25C65P5X5_400X400X198N_LTM8074IY#PBF(Primary)].
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,14 @@
+Added Component: Designator=J7(JST-SM04B-PASS-TBT(LF)(SN)_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/ePA-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "03/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Japan Solderless Terminals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst-mfg.com/index_e.php"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2 mm, 1 x 4 Position, Height 5.7 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SM04B-PASS-TBT(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "RightAngleHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "WiretoBoard"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=mainSchem Member=Component J7 SM04B-PASS-TBT(LF)(SN)

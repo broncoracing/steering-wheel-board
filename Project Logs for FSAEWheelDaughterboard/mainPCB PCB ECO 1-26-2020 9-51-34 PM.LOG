@@ -1,0 +1,30 @@
+Added Component: Designator=C9(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DOWNSHIFT_BTN Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=UPSHIFT_BTN Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=DRS_BTN Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=SET_BTN Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=AUX1_BTN Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Member To Class: ClassName=mainSchem Member=Component C9 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C10 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C11 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C12 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C13 GRM216R61E105KA12D

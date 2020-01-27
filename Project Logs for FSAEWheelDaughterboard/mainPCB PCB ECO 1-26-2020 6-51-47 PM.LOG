@@ -1,0 +1,481 @@
+Added Component: Designator=J1(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=J2(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=J3(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=J4(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=J5(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=J6(JST-B2B-PH-SM4-TB-2_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://ciiva.com/datasheet-click-26894756?src=ciiva&sig=90099765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Dec-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=L1(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L2(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L3(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L4(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L5(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L6(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L7(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L8(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L9(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L10(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L11(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L12(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L13(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L14(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L15(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=L16(ADA-RGB-1655_V)
+Add component (AddParameter): Name = "Category"; Value = "Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red,Green,Blue(RGB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Discrete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/ADA1655-Adafruit-Industries-datasheet-32028139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "May-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Addressable,Specialty"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Adafruit-Industries-LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.adafruit.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 5 x 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1655"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Neopixel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "5.00mmLx5.00mmW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Utilized LED"; Value = "WS2812(5050)"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X60X40NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB201V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=+5 Pin=L1-1
+Added Pin To Net: NetName=GND Pin=L1-3
+Added Pin To Net: NetName=+5 Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L2-3
+Added Pin To Net: NetName=+5 Pin=L3-1
+Added Pin To Net: NetName=GND Pin=L3-3
+Added Pin To Net: NetName=+5 Pin=L4-1
+Added Pin To Net: NetName=GND Pin=L4-3
+Added Pin To Net: NetName=+5 Pin=L5-1
+Added Pin To Net: NetName=GND Pin=L5-3
+Added Pin To Net: NetName=+5 Pin=L6-1
+Added Pin To Net: NetName=GND Pin=L6-3
+Added Pin To Net: NetName=+5 Pin=L7-1
+Added Pin To Net: NetName=GND Pin=L7-3
+Added Pin To Net: NetName=+5 Pin=L8-1
+Added Pin To Net: NetName=GND Pin=L8-3
+Added Pin To Net: NetName=+5 Pin=L9-1
+Added Pin To Net: NetName=GND Pin=L9-3
+Added Pin To Net: NetName=+5 Pin=L10-1
+Added Pin To Net: NetName=GND Pin=L10-3
+Added Pin To Net: NetName=+5 Pin=L11-1
+Added Pin To Net: NetName=GND Pin=L11-3
+Added Pin To Net: NetName=+5 Pin=L12-1
+Added Pin To Net: NetName=GND Pin=L12-3
+Added Pin To Net: NetName=+5 Pin=L13-1
+Added Pin To Net: NetName=GND Pin=L13-3
+Added Pin To Net: NetName=+5 Pin=L14-1
+Added Pin To Net: NetName=GND Pin=L14-3
+Added Pin To Net: NetName=+5 Pin=L15-1
+Added Pin To Net: NetName=GND Pin=L15-3
+Added Pin To Net: NetName=+5 Pin=L16-1
+Added Pin To Net: NetName=GND Pin=L16-3
+Added Pin To Net: NetName=AUX1_BTN Pin=J5-1
+Added Pin To Net: NetName=AUX1_BTN Pin=U1-19
+Added Net: Name=AUX1_BTN
+Added Pin To Net: NetName=AUX2_BTN Pin=J6-1
+Added Pin To Net: NetName=AUX2_BTN Pin=U1-20
+Added Net: Name=AUX2_BTN
+Added Pin To Net: NetName=DOWNSHIFT_BTN Pin=J1-1
+Added Pin To Net: NetName=DOWNSHIFT_BTN Pin=U1-15
+Added Net: Name=DOWNSHIFT_BTN
+Added Pin To Net: NetName=DRS_BTN Pin=J3-1
+Added Pin To Net: NetName=DRS_BTN Pin=U1-17
+Added Net: Name=DRS_BTN
+Added Pin To Net: NetName=LED_DRIVE Pin=R1-1
+Added Pin To Net: NetName=LED_DRIVE Pin=U1-11
+Added Net: Name=LED_DRIVE
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=L2-4
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL1_4 Pin=L1-4
+Added Pin To Net: NetName=NetL1_4 Pin=R1-2
+Added Net: Name=NetL1_4
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=L3-4
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=L4-4
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=L5-4
+Added Net: Name=NetL4_2
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=L6-4
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=L7-4
+Added Net: Name=NetL6_2
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Added Pin To Net: NetName=NetL7_2 Pin=L8-4
+Added Net: Name=NetL7_2
+Added Pin To Net: NetName=NetL8_2 Pin=L8-2
+Added Pin To Net: NetName=NetL8_2 Pin=L9-4
+Added Net: Name=NetL8_2
+Added Pin To Net: NetName=NetL9_2 Pin=L9-2
+Added Pin To Net: NetName=NetL9_2 Pin=L10-4
+Added Net: Name=NetL9_2
+Added Pin To Net: NetName=NetL10_2 Pin=L10-2
+Added Pin To Net: NetName=NetL10_2 Pin=L11-4
+Added Net: Name=NetL10_2
+Added Pin To Net: NetName=NetL11_2 Pin=L11-2
+Added Pin To Net: NetName=NetL11_2 Pin=L12-4
+Added Net: Name=NetL11_2
+Added Pin To Net: NetName=NetL12_2 Pin=L12-2
+Added Pin To Net: NetName=NetL12_2 Pin=L13-4
+Added Net: Name=NetL12_2
+Added Pin To Net: NetName=NetL13_2 Pin=L13-2
+Added Pin To Net: NetName=NetL13_2 Pin=L14-4
+Added Net: Name=NetL13_2
+Added Pin To Net: NetName=NetL14_2 Pin=L14-2
+Added Pin To Net: NetName=NetL14_2 Pin=L15-4
+Added Net: Name=NetL14_2
+Added Pin To Net: NetName=NetL15_2 Pin=L15-2
+Added Pin To Net: NetName=NetL15_2 Pin=L16-4
+Added Net: Name=NetL15_2
+Added Pin To Net: NetName=SET_BTN Pin=J4-1
+Added Pin To Net: NetName=SET_BTN Pin=U1-18
+Added Net: Name=SET_BTN
+Added Pin To Net: NetName=UPSHIFT_BTN Pin=J2-1
+Added Pin To Net: NetName=UPSHIFT_BTN Pin=U1-16
+Added Net: Name=UPSHIFT_BTN
+Added Member To Class: ClassName=mainSchem Member=Component J1 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=mainSchem Member=Component J2 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=mainSchem Member=Component J3 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=mainSchem Member=Component J4 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=mainSchem Member=Component J5 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=mainSchem Member=Component J6 B2B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=mainSchem Member=Component L1 1655
+Added Member To Class: ClassName=mainSchem Member=Component L2 1655
+Added Member To Class: ClassName=mainSchem Member=Component L3 1655
+Added Member To Class: ClassName=mainSchem Member=Component L4 1655
+Added Member To Class: ClassName=mainSchem Member=Component L5 1655
+Added Member To Class: ClassName=mainSchem Member=Component L6 1655
+Added Member To Class: ClassName=mainSchem Member=Component L7 1655
+Added Member To Class: ClassName=mainSchem Member=Component L8 1655
+Added Member To Class: ClassName=mainSchem Member=Component L9 1655
+Added Member To Class: ClassName=mainSchem Member=Component L10 1655
+Added Member To Class: ClassName=mainSchem Member=Component L11 1655
+Added Member To Class: ClassName=mainSchem Member=Component L12 1655
+Added Member To Class: ClassName=mainSchem Member=Component L13 1655
+Added Member To Class: ClassName=mainSchem Member=Component L14 1655
+Added Member To Class: ClassName=mainSchem Member=Component L15 1655
+Added Member To Class: ClassName=mainSchem Member=Component L16 1655
+Added Member To Class: ClassName=mainSchem Member=Component R1 ERA6AEB201V

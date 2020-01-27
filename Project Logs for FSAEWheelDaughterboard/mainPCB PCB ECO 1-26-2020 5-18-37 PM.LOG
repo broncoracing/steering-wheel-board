@@ -1,0 +1,7 @@
+Added Component: Designator=U1(Teensy3_2)
+Added Pin To Net: NetName=+5 Pin=U1-27
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Net: Name=GND
+Added Class: Name=mainSchem

@@ -1,0 +1,59 @@
+Added Component: Designator=C4(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X70X40LL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF4122V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X70X40ML20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF4532V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=CANH Pin=J7-2
+Added Pin To Net: NetName=CANH Pin=U2-7
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=J7-3
+Added Pin To Net: NetName=CANL Pin=U2-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=CANRXD Pin=U1-5
+Added Pin To Net: NetName=CANRXD Pin=U2-4
+Added Net: Name=CANRXD
+Added Pin To Net: NetName=CANTXD Pin=U1-4
+Added Pin To Net: NetName=CANTXD Pin=U2-1
+Added Net: Name=CANTXD
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-B5
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-D1
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=mainSchem Member=Component C4 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C5 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C6 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C7 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C8 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component R2 ERJ-6ENF4122V
+Added Member To Class: ClassName=mainSchem Member=Component R3 ERJ-6ENF4532V
