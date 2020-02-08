@@ -1,0 +1,22 @@
+Added Component: Designator=C21(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAPC2013X70X45NL10T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM216R61E105KA12D"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X60X40NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB201V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=+5 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=LED_DRIVE2 Pin=R4-1
+Added Pin To Net: NetName=LED_DRIVE2 Pin=U1-12
+Added Net: Name=LED_DRIVE2
+Added Pin To Net: NetName=NetL17_4 Pin=L17-4
+Added Pin To Net: NetName=NetL17_4 Pin=R4-2
+Added Net: Name=NetL17_4
+Added Member To Class: ClassName=mainSchem Member=Component C21 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component C22 GRM216R61E105KA12D
+Added Member To Class: ClassName=mainSchem Member=Component R4 ERA6AEB201V
